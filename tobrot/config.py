@@ -2,9 +2,9 @@ from tobrot.sample_config import Config
 #Fill your all data, read readme for reference
 
 class Config(Config):
-	TG_BOT_TOKEN= "1420387168:AAGe6YupOTuY9qWJ8h7YKw_zJu75hRkBTbU"
-	APP_ID = 2624913
-	API_HASH = "a204e6332a52ea40033b8215421bc81d"
-	OWNER_ID = 1485920883 #ID of bot owner
+	TG_BOT_TOKEN= "1699433689:AAGLBcB9C1-3ol33dBvT61nhdvnItBHKdNc"
+	APP_ID = 3319662
+	API_HASH = "ae3fb7d72d5babfd4315ffb3a9a93a86"
+	OWNER_ID = 1508105856 #ID of bot owner
 	AUTH_CHANNEL = [-1001151086861]
 	
