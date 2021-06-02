@@ -43,6 +43,6 @@ class Config(object):
     STATUS_COMMAND = os.environ.get("STATUS_COMMAND", "status@LeechingsRobot")
     SAVE_THUMBNAIL = os.environ.get("SAVE_THUMBNAIL", "savethumbnail@LeechingsRobot")
     CLEAR_THUMBNAIL = os.environ.get("CLEAR_THUMBNAIL", "clearthumbnail@LeechingsRobot")
-    UPLOAD_AS_DOC = os.environ.get("UPLOAD_AS_DOC", "upload_as_doc@LeechingsRobot")
+    UPLOAD_AS_DOC = os.environ.get("UPLOAD_AS_DOC", "uploadasdoc@LeechingsRobot")
     PYTDL_COMMAND_G = os.environ.get("PYTDL_COMMAND_G", "pytdl@LeechingsRobot")
     LOG_COMMAND = os.environ.get("LOG_COMMAND", "log@LeechingsRobot")
